@@ -1,0 +1,6 @@
+@microsoft_skills_HostAddress = http://localhost:5255
+
+GET {{microsoft_skills_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
